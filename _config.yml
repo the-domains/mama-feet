@@ -1,0 +1,28 @@
+name: Mama Feet
+favicon: null
+layout_spectrum: 0.8420978432986885
+typography_spectrum: 0.07316014147363603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.13762305257841945
+  lightness: 0.2910459244158119
+  saturation: 0.32470070477575064
+  rhythmicContrast: 0.2727321134880185
+purpose: []
