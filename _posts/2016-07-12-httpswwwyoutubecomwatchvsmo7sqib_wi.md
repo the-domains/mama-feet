@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'https://www.youtube.com/watch?v=sMO7SQib_wI'
-datePublished: '2016-07-12T19:37:11.504Z'
-dateModified: '2016-07-12T19:37:11.023Z'
+datePublished: '2016-07-12T19:37:21.245Z'
+dateModified: '2016-07-12T19:37:18.777Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-12-httpswwwyoutubecomwatchvsmo7sqib_wi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-12-httpswwwyoutubecomwatchvsmo7sqib_wi.md
 url: httpswwwyoutubecomwatchvsmo7sqib_wi/index.html
 _type: Article
 
