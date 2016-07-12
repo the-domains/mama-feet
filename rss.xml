@@ -2,23 +2,16 @@
     <channel>
         <title><![CDATA[Realidade Musical]]></title>
         <description><![CDATA[Realidade Musical]]></description>
-        <link>https://thegrid.ai/mama-feet/</link>
+        <link>http://www.realidademusical.com.br/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 19:32:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/mama-feet/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 19:32:49 GMT</lastBuildDate>
+        <atom:link href="http://www.realidademusical.com.br/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Realidade Musical]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ed886c-b4ab-4b90-a751-55e484f6c83b.png">]]></description>
-            <link>https://thegrid.ai/mama-feet/realidade-musical/index.html</link>
+            <link>http://www.realidademusical.com.br/realidade-musical/index.html</link>
             <guid isPermaLink="false">6b47c90f-1549-4097-b360-5f6d40b29d75</guid>
             <pubDate>Tue, 12 Jul 2016 19:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f115b5a4-2b64-498c-9609-7563682fad2e.jpg">]]></description>
-            <link>https://thegrid.ai/mama-feet/lancamento-do-cd-brazilian-democracy/index.html</link>
-            <guid isPermaLink="false">9f2cb92c-30dd-4882-8546-10b100b466d9</guid>
-            <pubDate>Mon, 25 Apr 2016 18:00:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
